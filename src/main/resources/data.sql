@@ -1,0 +1,1 @@
+insert into user(user_id, user_name, password, status) values(101,'admin','$2y$12$UZyMNrQHmd5.hyzrSfyUteqqtJD0I6.W8ycF5bo4mQtuBb9noCrnS',1);
